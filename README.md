@@ -5,7 +5,7 @@ gitkata2-gitolite
 Links
 -----
 
-[[https://wybcz.pl/notes/howtos/mirrors/gitolite/gitolite.html]]
+http://gitolite.com/gitolite/master-toc.html
 
 
 Vagrant
